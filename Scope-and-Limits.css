@@ -96,6 +96,8 @@
   height: 590px;
   width: 585px;
   object-position: 50% 8.17%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
   margin: 42px auto -93px;
 }
 

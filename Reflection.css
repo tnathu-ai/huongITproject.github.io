@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/482B977F-F812-465B-9387-4C80EA5EA68F.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/482B977F-F812-465B-9387-4C80EA5EA68F.jpg");
   background-position: 50% 50%;
 }
 
@@ -277,6 +277,7 @@
   min-height: 520px;
   background-image: url("images/3DEB11E6-33AB-4F16-AE32-76FCE917633A.jpg");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -287,6 +288,7 @@
   min-height: 520px;
   background-image: url("images/EEEC3B21-7197-4154-BD87-8E0A4A92DBE3.jpg");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -297,6 +299,7 @@
   min-height: 520px;
   background-image: url("images/3F55BCE8-6FCC-40A7-B48C-D1B668CDF347.jpg");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-3 {
@@ -307,6 +310,7 @@
   min-height: 520px;
   background-image: url("images/B96E2B27-0E44-4565-9072-A7BBE9630922.jpg");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-4 {
@@ -316,6 +320,7 @@
 .u-section-4 .u-image-5 {
   min-height: 520px;
   background-image: url("images/CCD1E8F7-CD1E-432A-8FC2-ABCE2F06A677.jpg");
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-5 {
